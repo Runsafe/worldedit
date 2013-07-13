@@ -4,5 +4,4 @@
 /target
 /bin
 /dependency-reduced-pom.xml
-/*.iml
-/.idea
+/.idea/workspace.xml
